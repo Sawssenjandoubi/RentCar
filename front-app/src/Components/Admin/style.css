@@ -1,0 +1,19 @@
+.sidebarAdmin{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #2d2f6c;
+    color: white;
+ 
+    
+}
+.menu .nav__list .nav__item{
+    margin: 2px;
+    padding:50px 0;
+    text-align: justify;
+    
+  float: right;
+}
